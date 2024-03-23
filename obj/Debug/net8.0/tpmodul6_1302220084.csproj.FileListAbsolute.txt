@@ -1,0 +1,15 @@
+C:\Users\hafid\Downloads\febry\tpmodul6_1302220084\tpmodul6_1302220084\bin\Debug\net8.0\tpmodul6_1302220084.exe
+C:\Users\hafid\Downloads\febry\tpmodul6_1302220084\tpmodul6_1302220084\bin\Debug\net8.0\tpmodul6_1302220084.deps.json
+C:\Users\hafid\Downloads\febry\tpmodul6_1302220084\tpmodul6_1302220084\bin\Debug\net8.0\tpmodul6_1302220084.runtimeconfig.json
+C:\Users\hafid\Downloads\febry\tpmodul6_1302220084\tpmodul6_1302220084\bin\Debug\net8.0\tpmodul6_1302220084.dll
+C:\Users\hafid\Downloads\febry\tpmodul6_1302220084\tpmodul6_1302220084\bin\Debug\net8.0\tpmodul6_1302220084.pdb
+C:\Users\hafid\Downloads\febry\tpmodul6_1302220084\tpmodul6_1302220084\obj\Debug\net8.0\tpmodul6_1302220084.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hafid\Downloads\febry\tpmodul6_1302220084\tpmodul6_1302220084\obj\Debug\net8.0\tpmodul6_1302220084.AssemblyInfoInputs.cache
+C:\Users\hafid\Downloads\febry\tpmodul6_1302220084\tpmodul6_1302220084\obj\Debug\net8.0\tpmodul6_1302220084.AssemblyInfo.cs
+C:\Users\hafid\Downloads\febry\tpmodul6_1302220084\tpmodul6_1302220084\obj\Debug\net8.0\tpmodul6_1302220084.csproj.CoreCompileInputs.cache
+C:\Users\hafid\Downloads\febry\tpmodul6_1302220084\tpmodul6_1302220084\obj\Debug\net8.0\tpmodul6_1302220084.sourcelink.json
+C:\Users\hafid\Downloads\febry\tpmodul6_1302220084\tpmodul6_1302220084\obj\Debug\net8.0\tpmodul6_1302220084.dll
+C:\Users\hafid\Downloads\febry\tpmodul6_1302220084\tpmodul6_1302220084\obj\Debug\net8.0\refint\tpmodul6_1302220084.dll
+C:\Users\hafid\Downloads\febry\tpmodul6_1302220084\tpmodul6_1302220084\obj\Debug\net8.0\tpmodul6_1302220084.pdb
+C:\Users\hafid\Downloads\febry\tpmodul6_1302220084\tpmodul6_1302220084\obj\Debug\net8.0\tpmodul6_1302220084.genruntimeconfig.cache
+C:\Users\hafid\Downloads\febry\tpmodul6_1302220084\tpmodul6_1302220084\obj\Debug\net8.0\ref\tpmodul6_1302220084.dll
